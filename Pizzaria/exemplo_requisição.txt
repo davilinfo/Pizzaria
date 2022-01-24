@@ -1,0 +1,35 @@
+﻿{
+  "pizzas": [
+    {
+      "codigo": 0,
+      "sabores": [
+        {
+          "codigo": 3,
+          "nome": "Mussarela",
+          "valor": 42.5,
+          "disponivel": true
+        },
+        {
+          "codigo": 4,
+          "nome": "Calabresa",
+          "valor": 42.5,
+          "disponivel": true
+        }
+      ]
+    },
+    {
+      "codigo": 0,
+      "sabores": [
+        {
+          "codigo": 3,
+          "nome": "Mussarela",
+          "valor": 42.5,
+          "disponivel": true
+        }
+      ]
+    }
+  ],
+  "codigoCliente": "AABD7242D70A8322E33B50316EB638D3F0055EE6A1C8A4FBF37778B8AC5EB863",
+  "endereco": "",
+  "timestamp": "2022-01-24T01:48:20.225Z"
+}
