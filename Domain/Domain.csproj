@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Contracts\EntidadeCodigo.cs~RF5ce0c48.TMP" />
+    <None Remove="EF\Cliente.cs~RFbdee31.TMP" />
+    <None Remove="EF\Ingrediente.cs~RF16f29c6.TMP" />
+    <None Remove="EF\Pedido.cs~RFcaf67f.TMP" />
+    <None Remove="EF\Pizza.cs~RFbe766c.TMP" />
+    <None Remove="EF\Pizza.cs~RFd08f2c.TMP" />
+  </ItemGroup>
+
+</Project>
